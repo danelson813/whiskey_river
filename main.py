@@ -1,6 +1,2 @@
-def main():
-    print("Hello from whiskey-river!")
+# whiskey_river/main.py
 
-
-if __name__ == "__main__":
-    main()
